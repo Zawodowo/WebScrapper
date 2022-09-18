@@ -1,3 +1,3 @@
 # WebScrapper
 
-Scrapper, który pobiera informacje o styropianach ze strony styro24.pl, a następnie zapisuje wszystkie dane (zdjęcie, nazwa, cena, adres, producent) do pliku .xlsx
+Scrapper, which downloads styrofoam information from website, and then saves all data (photo, name, price, address, manufacturer) to .xlsx file
